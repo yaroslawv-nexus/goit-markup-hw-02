@@ -7,7 +7,6 @@
   --primary-brand: #4d5ae5;
   --basic-white: #ffffff;
   --alt-white: #f4f4fd;
-  --basic-font-family: "Roboto";
 }
 
 /* GENERAL */
@@ -26,7 +25,7 @@
 }
 
 body {
-  font-family: var(--basic-font-family), sans-serif;
+  font-family: "Roboto", sans-serif;
   color: var(--text-color);
   background-color: var(--basic-white);
   letter-spacing: 0.02em;
